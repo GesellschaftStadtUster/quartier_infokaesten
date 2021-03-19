@@ -1,4 +1,4 @@
-Standort;Quartierverein;lat;lng;Bild zur Lage;Link zu Google-Streetview
+standort;quartierverein;lat;lng;bild_kasten;link_google-streetview
 NaenikonBahnhof;Naenikon;47.36995186;8.685233448;https://raw.githubusercontent.com/KiJuInStadtUster/quartier_infokaesten/main/fotos/NaenikonBahnhof.JPG;https://goo.gl/maps/8FoQrvXfNWwgp8hw7
 NaenikonTuermli;Naenikon;47.37046085;8.692937473;https://raw.githubusercontent.com/KiJuInStadtUster/quartier_infokaesten/main/fotos/NaenikonTuermli.JPG;https://goo.gl/maps/eB1uy1LGuwrnbqfH8
 Loren-Allee;Winikon-Gschwader;47.35820863;8.709598574;https://raw.githubusercontent.com/KiJuInStadtUster/quartier_infokaesten/main/fotos/Loren-Allee.JPG;https://goo.gl/maps/s3PTvTyJqwJEcStv6
