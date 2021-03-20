@@ -9,5 +9,5 @@
 ### Dateien
 * Die Tabelle mit allen Quartierkästen ist unter folgendem Namen abgelegt: [liste_quartierinfokaesten_20210319.csv](https://github.com/KiJuInStadtUster/quartier_infokaesten/blob/main/liste_quartierinfokaesten_20210319.csv)
 * Mit der Datei [script.R](https://github.com/KiJuInStadtUster/quartier_infokaesten/blob/main/script.R) kann  eine aktuelle Karte mit allen Standorten erstellt werden.
-* Diese Karte wird als karte.html abgespeichert oder ist unter diesem Link verfügbar: https://kijuinstadtuster.github.io/quartier_infokaesten/karte.html
+* Diese Karte wird als karte.html abgespeichert oder ist unter diesem Link verfügbar: [https://kijuinstadtuster.github.io/quartier_infokaesten/karte.html]{:target="_blank"}
 * Im Ordner "fotos" sind Fotos der verschiedenen Kästen verfügbar.
