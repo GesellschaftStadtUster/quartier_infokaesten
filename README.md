@@ -7,9 +7,9 @@
 * Über die gemeinsam bewirtschafteten Quartierkästen werden wöchentlich die wichtigsten Informationen aus der Stadtverwaltung der Bevölkerung zugänglich gemacht. 
 
 ### Dateien
-* Die Tabelle mit allen Quartierkästen ist unter folgendem Namen abgelegt: [liste_quartierinfokaesten_20210319.csv](https://github.com/KiJuInStadtUster/quartier_infokaesten/blob/main/liste_quartierinfokaesten_20210319.csv)
-* Mit der Datei [script.R](https://github.com/KiJuInStadtUster/quartier_infokaesten/blob/main/script.R) kann  eine aktuelle Karte mit allen Standorten erstellt werden.
-* Diese Karte wird als karte.html abgespeichert oder ist unter diesem Link verfügbar: https://kijuinstadtuster.github.io/quartier_infokaesten/karte.html
+* Die Tabelle mit allen Quartierkästen ist unter folgendem Namen abgelegt: [liste_quartierinfokaesten_20210319.csv](https://github.com/GesellschaftStadtUster/quartier_infokaesten/blob/main/liste_quartierinfokaesten_20210319.csv)
+* Mit der Datei [script.R](https://github.com/GesellschaftStadtUster/quartier_infokaesten/blob/main/script.R) kann  eine aktuelle Karte mit allen Standorten erstellt werden.
+* Diese Karte wird als karte.html abgespeichert oder ist unter diesem Link verfügbar: https://GesellschaftStadtUster.github.io/quartier_infokaesten/karte.html
 * Im Ordner "fotos" sind Fotos der verschiedenen Kästen verfügbar.
 
 ## Englisch
@@ -20,7 +20,7 @@
 * The most important information from the city administration is made available to the population on a weekly basis via the jointly managed "Quartierkästen".
 
 ### Files
-* The table with all accommodation boxes is stored under the following name: [liste_quartierinfokaesten_20210319.csv](https://github.com/KiJuInStadtUster/quartier_infokaesten/blob/main/liste_quartierinfokaesten_20210319.csv)
-* A current map with all locations can be created with the [script.R](https://github.com/KiJuInStadtUster/quartier_infokaesten/blob/main/script.R).
-* This map is saved as karte.html or is available under this link: https://kijuinstadtuster.github.io/quartier_infokaesten/karte.html
-* Photos of "Quartierkästen" are available in the "[fotos](https://kijuinstadtuster.github.io/quartier_infokaesten/fotos)" folder.
+* The table with all accommodation boxes is stored under the following name: [liste_quartierinfokaesten_20210319.csv](https://github.com/GesellschaftStadtUster/quartier_infokaesten/blob/main/liste_quartierinfokaesten_20210319.csv)
+* A current map with all locations can be created with the [script.R](https://github.com/GesellschaftStadtUster/quartier_infokaesten/blob/main/script.R).
+* This map is saved as karte.html or is available under this link: https://GesellschaftStadtUster.github.io/quartier_infokaesten/karte.html
+* Photos of "Quartierkästen" are available in the "[fotos](https://GesellschaftStadtUster.github.io/quartier_infokaesten/fotos)" folder.
