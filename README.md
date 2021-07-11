@@ -7,7 +7,7 @@
 * Über die gemeinsam bewirtschafteten Quartierkästen werden wöchentlich die wichtigsten Informationen aus der Stadtverwaltung der Bevölkerung zugänglich gemacht. 
 
 ### Dateien
-* Die Tabelle mit allen Quartierkästen ist unter folgendem Namen abgelegt: [liste_quartierinfokaesten_20210319.csv](https://github.com/GesellschaftStadtUster/quartier_infokaesten/blob/main/liste_quartierinfokaesten_20210319.csv)
+* Die Tabelle mit allen Quartierkästen ist unter folgendem Namen abgelegt: [liste_quartierinfokaesten.csv](https://github.com/GesellschaftStadtUster/quartier_infokaesten/blob/main/liste_quartierinfokaesten.csv)
 * Mit der Datei [script.R](https://github.com/GesellschaftStadtUster/quartier_infokaesten/blob/main/script.R) kann  eine aktuelle Karte mit allen Standorten erstellt werden.
 * Diese Karte wird als karte.html abgespeichert oder ist unter diesem Link verfügbar: https://GesellschaftStadtUster.github.io/quartier_infokaesten/karte.html
 * Im Ordner "[fotos](https://github.com/GesellschaftStadtUster/quartier_infokaesten/tree/main/fotos)" sind Fotos der verschiedenen Kästen verfügbar.
