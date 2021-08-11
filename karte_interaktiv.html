@@ -69,7 +69,7 @@
 
       var marker = L.marker([row.lat, row.lng], {
         opacity: 1
-      }).bindPopup(row.quartierverein);
+      }).bindPopup('<b>'+row.quartierverein+'</b><br>Besitzer: '+row.besitzer);
       
       marker.addTo(map);
     }
