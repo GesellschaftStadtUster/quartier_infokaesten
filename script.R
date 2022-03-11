@@ -5,7 +5,7 @@ library(htmlwidgets)
 
 
 #Daten einlesen
-daten <- read.csv("https://raw.githubusercontent.com/GesellschaftStadtUster/quartier_infokaesten/main/liste_quartierinfokaesten_20210319.csv")
+daten <- read.csv("https://raw.githubusercontent.com/GesellschaftStadtUster/quartier_infokaesten/main/liste_quartierinfokaesten.csv")
 
 popuptext <- paste0("<h1>",daten$standort,"</h1>",
                "<b>Quartierverein:</b> ", daten$quartierverein,
